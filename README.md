@@ -8,3 +8,6 @@ Its not actually a decoder though. It just listens to live audio and detects the
 ### Python Libraries Used
 
     01. Pyttsx3 (just for Text To Speech Functionality)
+### Other Packages
+    
+    01. espeak (to support pyttsx3)

@@ -1,6 +1,6 @@
 # DTMFDecoder
 
-Python Program to decode live audio for DTMF signals
+Python Program to decode live audio for DTMF signals.
 Its not actually a decoder though. It just listens to live audio and detects the DTMF signals.
 
 ## Requirements
